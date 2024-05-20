@@ -1,7 +1,7 @@
 # pyospackage_pb_413
 
-[![PyPI - Version](https://img.shields.io/pypi/v/pyospackage_pb_413.svg)](https://pypi.org/project/pyospackage_pb_413)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pyospackage_pb_413.svg)](https://pypi.org/project/pyospackage_pb_413)
+[![PyPI - Version](https://img.shields.io/pypi/v/pyospackage_pb_413.svg)](https://test.pypi.org/project/pyospackage_pb_413)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pyospackage_pb_413.svg)](https://test.pypi.org/project/pyospackage_pb_413)
 
 -----
 
