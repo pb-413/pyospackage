@@ -1,7 +1,7 @@
-# pyospackage
+# pyospackage_pb_413
 
-[![PyPI - Version](https://img.shields.io/pypi/v/pyospackage.svg)](https://pypi.org/project/pyospackage)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pyospackage.svg)](https://pypi.org/project/pyospackage)
+[![PyPI - Version](https://img.shields.io/pypi/v/pyospackage_pb_413.svg)](https://pypi.org/project/pyospackage_pb_413)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pyospackage_pb_413.svg)](https://pypi.org/project/pyospackage_pb_413)
 
 -----
 
@@ -13,9 +13,9 @@
 ## Installation
 
 ```console
-pip install pyospackage
+pip install pyospackage_pb_413
 ```
 
 ## License
 
-`pyospackage` is distributed under the terms of the [MIT](https://spdx.org/licenses/MIT.html) license.
+`pyospackage_pb_413` is distributed under the terms of the [MIT](https://spdx.org/licenses/MIT.html) license.
