@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "pyospackage_pb_413"
-version = "0.1.2"
+version = "0.1.3"
 description = """Project following the pyOpenSci tutorial:
 https://www.pyopensci.org/python-package-guide/tutorials/intro.html"""
 readme = "README.md"
